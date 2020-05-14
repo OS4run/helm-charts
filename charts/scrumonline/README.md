@@ -7,7 +7,7 @@ PHP web app for planning poker. It includes a master view for the ScrumMaster an
 ## Source software
 [Original Project - https://github.com/Toxantron/scrumonline](https://github.com/Toxantron/scrumonline)
 
-[Docker portage - https://github.com/chrisns/scrumonline](https://github.com/chrisns/scrumonline)
+[Docker project - https://github.com/chrisns/scrumonline](https://github.com/chrisns/scrumonline)
 
 
 ## Prerequisites
