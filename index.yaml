@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  scrumonline:
+  - apiVersion: v2
+    appVersion: bundled-d57696ee515c1f546de0ec8f5755a555a7f36a6c
+    created: "2020-05-14T20:14:33.49455816Z"
+    description: A Scrum Poker application
+    digest: 077a2f6417983988e0dfbed5c8899eaed6066379b0e4fe2822f60986529d9db1
+    name: scrumonline
+    type: application
+    urls:
+    - https://github.com/OS4run/helm-charts/releases/download/scrumonline-0.1.2/scrumonline-0.1.2.tgz
+    version: 0.1.2
+generated: "2020-05-14T20:14:33.303512779Z"
