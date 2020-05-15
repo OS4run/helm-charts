@@ -24,7 +24,7 @@ $ helm repo add os4run https://os4run.github.io/helm-charts/
 To install the chart with the release name `my-release`:
 
 ```bash
-$ helm install --namespace default --name my-release os4run/sealed-secrets
+$ helm install --namespace default --name my-release os4run/scrumonline
 ```
 
 The command deploys a deployment for scrum poker planning website. The [configuration](#configuration) section lists the parameters that can be configured during installation.
